@@ -1,12 +1,12 @@
-Run Backend Code, 
+### Run Backend Code, 
 
-npm i
-npm run dev
+- npm i
+- npm run dev
 
 
-Run Frontend Code, 
-npm i 
-npm run dev
+### Run Frontend Code, 
+- npm i 
+- npm run dev
 
 # Demo Video
 
